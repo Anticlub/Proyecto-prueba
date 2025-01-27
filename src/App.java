@@ -5,5 +5,6 @@ public class App {
         System.out.println(p2.getNombre());
         Persona p3 = new Persona("Antonio");
         System.out.println("Mensaje para probrar el checkout del ejercicio de git");
+        System.out.println("Paso 16-3");
     }
 }
