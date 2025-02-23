@@ -6,5 +6,6 @@ public class App {
         Persona p3 = new Persona("Antonio");
         System.out.println("Mensaje para probrar el checkout del ejercicio de git");
         System.out.println("Paso 16-3");
+        System.out.println("Prueba de los comentarios al hacer commit desde vscode, que no me acuerdo bien");
     }
 }
